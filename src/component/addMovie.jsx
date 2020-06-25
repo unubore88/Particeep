@@ -65,7 +65,7 @@ class AddMovie extends Component {
                             <li>Cliquez sur l'icone partager en bas de la vidéo Youtube.</li>
                             <li>Cliquer sur integrer.</li>
                             <li>Copier le lien qui se trouve dans le src, exemple: src="https://www.youtube.com/embed/bvRgK66MPcQ" </li>
-                            <p>(cliquez sur le lien "exemple" si besoin)</p>
+                            <p>(cliquez sur le lien "Voir exemple", en bas à gauche si besoin)</p>
                         </ol>
                         <label>La catégorie du film</label>
                         <input type="text" placeholder="comique, science fiction ..." onChange={this.onChangeCategory} required />
