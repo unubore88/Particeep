@@ -1,5 +1,6 @@
 .movie-item{
-    // border: 3px solid black;
+    border: 1px solid black ;
+    box-shadow: 5px 5px lighten($dark-blue,10);
     display: flex;
     justify-content: center;
     align-items: center;
